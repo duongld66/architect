@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninhtqse\Architect;
+namespace Duongld\Architect;
 
 use Illuminate\Database\Eloquent\Model as EloquentModel;
 use Illuminate\Support\Collection;

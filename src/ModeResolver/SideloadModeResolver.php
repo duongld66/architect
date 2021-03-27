@@ -1,12 +1,12 @@
 <?php
 
-namespace Ninhtqse\Architect\ModeResolver;
+namespace Duongld\Architect\ModeResolver;
 
 use Illuminate\Database\Eloquent\Model as EloquentModel;
 use Illuminate\Support\Collection;
-use Ninhtqse\Architect\ModeResolver\IdsModeResolver;
-use Ninhtqse\Architect\ModeResolver\ModeResolverInterface;
-use Ninhtqse\Architect\Utility;
+use Duongld\Architect\ModeResolver\IdsModeResolver;
+use Duongld\Architect\ModeResolver\ModeResolverInterface;
+use Duongld\Architect\Utility;
 
 class SideloadModeResolver implements ModeResolverInterface
 {

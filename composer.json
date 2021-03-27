@@ -1,5 +1,5 @@
 {
-    "name": "ninhtqse/architect",
+    "name": "duongld/architect",
     "autoload": {
         "psr-4": {
             "duongld\\Architect\\": "src/"

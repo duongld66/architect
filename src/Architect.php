@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninhtqse\Architect;
+namespace Duongld\Architect;
 
 use InvalidArgumentException;
 use Illuminate\Support\Collection;
@@ -152,7 +152,7 @@ class Architect
      */
     private function createModeResolver($mode)
     {
-        $class = 'Ninhtqse\Architect\ModeResolver\\';
+        $class = 'Duongld\Architect\ModeResolver\\';
         switch ($mode) {
             default:
             case 'embed':

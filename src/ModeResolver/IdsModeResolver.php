@@ -1,11 +1,11 @@
 <?php
 
-namespace Ninhtqse\Architect\ModeResolver;
+namespace Duongld\Architect\ModeResolver;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;
-use Ninhtqse\Architect\ModeResolver\ModeResolverInterface;
-use Ninhtqse\Architect\Utility;
+use Duongld\Architect\ModeResolver\ModeResolverInterface;
+use Duongld\Architect\Utility;
 
 class IdsModeResolver implements ModeResolverInterface
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Ninhtqse\Architect\ModeResolver;
+namespace Duongld\Architect\ModeResolver;
 
-use Ninhtqse\Architect\ModeResolver\ModeResolverInterface;
+use Duongld\Architect\ModeResolver\ModeResolverInterface;
 
 class EmbedModeResolver implements ModeResolverInterface
 {

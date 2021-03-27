@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninhtqse\Architect\ModeResolver;
+namespace Duongld\Architect\ModeResolver;
 
 interface ModeResolverInterface
 {
