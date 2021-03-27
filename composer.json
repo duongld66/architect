@@ -2,7 +2,7 @@
     "name": "ninhtqse/architect",
     "autoload": {
         "psr-4": {
-            "Ninhtqse\\Architect\\": "src/"
+            "duongld\\Architect\\": "src/"
         }
     },
     "require": {
